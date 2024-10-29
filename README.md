@@ -35,3 +35,19 @@ Representa os custos contínuos e variáveis relacionados à operação dos serv
 O OPEX permite uma maior flexibilidade, pois os custos são distribuídos ao longo do tempo, e o usuário paga apenas pelo que usa. Isso torna a nuvem ideal para organizações que preferem gastos variáveis, que podem ser escalados para cima ou para baixo conforme a necessidade.
 
 Resumo: No Azure, o modelo de cobrança é predominantemente OPEX, permitindo que você pague conforme o uso e escale os serviços rapidamente. Isso substitui a necessidade de grandes investimentos iniciais (CAPEX), pois a Microsoft gerencia a infraestrutura e a manutenção dos recursos.
+
+4 - Benefícios da Nuvem:
+
+- Escalabilidade e Elasticidade: O Azure permite ajustar os recursos de acordo com as necessidades da sua operação, garantindo flexibilidade para lidar com demandas variáveis. 
+DIO
+
+- Disponibilidade e Confiabilidade: Com uma rede global de data centers, o Azure proporciona alta disponibilidade e confiabilidade, assegurando que seus serviços permaneçam operacionais mesmo diante de falhas em componentes individuais. 
+DIO
+
+- Segurança e Conformidade: O Azure segue rigorosos protocolos de segurança e oferece a maior cobertura de conformidade simplificada do mercado, garantindo a proteção e a privacidade dos dados da sua empresa. 
+LATTINE GROUP
+
+- Redução de Custos: Ao migrar para o Azure, sua empresa pode economizar em investimentos de hardware e manutenção, pagando apenas pelos recursos utilizados, o que otimiza o orçamento de TI. 
+SGA
+
+- Inovação Rápida: O Azure oferece uma plataforma abrangente com serviços avançados, incluindo inteligência artificial e aprendizado de máquina, permitindo que sua empresa inove e se adapte rapidamente às demandas do mercado.
